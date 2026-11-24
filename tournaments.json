@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-24T22:37:26.416Z",
+  "updatedAt": "2026-11-24T22:38:21.163Z",
   "source": "ECLIPSE Network",
   "tournaments": [
+    {
+      "id": "TRN-5867F8",
+      "name": "FRIENDLY",
+      "date": "DATE TO BE ANNOUNCED",
+      "format": "Round Robin",
+      "status": "OPEN",
+      "description": "0/3 players registered",
+      "url": "https://discord.gg/Zw6GxaNXG"
+    },
     {
       "id": "TRN-F47083",
       "name": "test",
