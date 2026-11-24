@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-24T22:29:54.517Z",
+  "updatedAt": "2026-11-24T22:32:22.634Z",
   "source": "ECLIPSE Network",
   "tournaments": [
+    {
+      "id": "TRN-F47083",
+      "name": "test",
+      "date": "DATE TO BE ANNOUNCED",
+      "format": "Single Elimination",
+      "status": "OPEN",
+      "description": "0/64 players registered",
+      "url": "https://discord.gg/Zw6GxaNXG"
+    },
     {
       "id": "TRN-DD315F",
       "name": "FIRST MONTHLY",
