@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:32:22.634Z",
+  "updatedAt": "2026-11-24T22:37:26.416Z",
   "source": "ECLIPSE Network",
   "tournaments": [
     {
@@ -7,8 +7,8 @@
       "name": "test",
       "date": "DATE TO BE ANNOUNCED",
       "format": "Single Elimination",
-      "status": "OPEN",
-      "description": "0/64 players registered",
+      "status": "COMPLETED",
+      "description": "0/64 players registered · Winner: test",
       "url": "https://discord.gg/Zw6GxaNXG"
     },
     {
